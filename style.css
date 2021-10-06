@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+   border: blue solid;
+}
+p{
+    color: blue;
+    font-size: large;
+    font-weight: 900;
+}
+h1{
+    margin-top: 20px;
+}
